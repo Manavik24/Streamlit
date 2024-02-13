@@ -1,0 +1,10 @@
+Streamlit
+Open-source Python library that is used for creating web applications for data science and machine learning projects with minimal effort
+
+Installation
+pip install streamlit
+The command streamlit hello is used to run a basic Streamlit app provided by the Streamlit 
+
+Widgets
+Interactive elements that you can add to your web applications to allow users to interact with and control the visualizations or data displayed.
+streamlit run file.py
